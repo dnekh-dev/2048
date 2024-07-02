@@ -1,0 +1,24 @@
+
+›
+java:S1104"SMake string1 a static final constant or non-public and provide accessors if needed.(ÿĞŞ·üÿÿÿÿ8¿ø÷¦„2J$58e95d94-a8c1-409f-b5cd-f614f2d7c444
+›
+java:S1104"SMake string2 a static final constant or non-public and provide accessors if needed.(ß£Ïéıÿÿÿÿ8¿ø÷¦„2J$4ddc9e6f-53cc-464b-81f2-66400c4f9ca0
+›
+java:S1104"SMake string3 a static final constant or non-public and provide accessors if needed.(Îúùşÿÿÿÿÿ8ÁËú¦„2J$00d1c6ae-04d6-4eb9-97e2-90929d526d52
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ßÎ¢­øÿÿÿÿ8Àáı¦„2J$27d58b59-9dc6-451b-8c64-1794b3af389c
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(”¤¬øÿÿÿÿ8İÊş¦„2J$828c178a-3fd6-490c-bdc2-80343774ad93
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(åÔ‚8ğ˜ÿ¦„2
+u
+java:S1444"-Make this "public static string1" field final(ÿĞŞ·üÿÿÿÿ8¿ø÷¦„2J$586b9878-350e-413b-84d0-4c63277aeae0
+u
+java:S1444"-Make this "public static string2" field final(ß£Ïéıÿÿÿÿ8¿ø÷¦„2J$e8eedd64-a42c-421f-9053-8872b9b389a0
+u
+java:S1444"-Make this "public static string3" field final(Îúùşÿÿÿÿÿ8ÁËú¦„2J$3362b60b-3ed7-4a69-8a60-6e08d094ac55
+h
+java:S2129" Remove this "String" constructor(Îúùşÿÿÿÿÿ8Ãø÷¦„2J$1eee3cda-69a4-4750-b2a3-a8593e8bec3b
+r	java:S106"+Replace this use of System.out by a logger.(ßÎ¢­øÿÿÿÿ8Äø÷¦„2J$2e3c9bb7-5904-4068-8266-f274046d6bd1
+r	java:S106"+Replace this use of System.out by a logger.(”¤¬øÿÿÿÿ8™¸ø¦„2J$97934292-15b7-4990-a07f-7d89e871a30c
+m	java:S106"+Replace this use of System.out by a logger.(åÔ‚8‹…û¦„2J$97be94f6-d2da-465a-aa6b-57f3b61db68d

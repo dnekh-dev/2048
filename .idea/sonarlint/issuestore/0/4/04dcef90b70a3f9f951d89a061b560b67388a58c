@@ -1,0 +1,30 @@
+
+n
+java:S2440"+Remove this instantiation of "SolarSystem".(üÅ˜8ÇŠÑá†2J$d9c4f06c-ed06-437e-8aad-80067f8d8e42
+r	java:S106"+Replace this use of System.out by a logger.(ùÒ¥ıÿÿÿÿ8ÇŠÑá†2J$a6f70087-103a-4ad1-9ccc-9e5367f5513e
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¶×Â¦úÿÿÿÿ8×ïÒá†2J$e7bca492-b958-4a29-8f1b-a4c18c4f4635
+r	java:S106"+Replace this use of System.out by a logger.(¶×Â¦úÿÿÿÿ8ÇŠÑá†2J$78ea71ab-057a-4b2e-bc61-f2b4cfb71ac5
+}
+java:S2209"5Change this instance-reference to a static reference.(¶×Â¦úÿÿÿÿ8ÈŠÑá†2J$043a80c4-bfa0-47ad-af4d-06c0ef01b3a7
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ĞÂäÜÿÿÿÿÿ8Ê¢Óá†2J$b36039e2-9c2a-47f6-9807-167d056bd55c
+r	java:S106"+Replace this use of System.out by a logger.(ĞÂäÜÿÿÿÿÿ8ÈŠÑá†2J$8de6d52b-4f65-4e61-9318-641543ad3cfa
+}
+java:S2209"5Change this instance-reference to a static reference.(ĞÂäÜÿÿÿÿÿ8ÈŠÑá†2J$9bbdbde6-e0c5-4a22-ae31-b111b0f15e7e
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(†æ–Üÿÿÿÿÿ8Œ¼Óá†2J$85ba2af0-d6bd-48d5-a4e1-f8c0bf36c639
+r	java:S106"+Replace this use of System.out by a logger.(†æ–Üÿÿÿÿÿ8ÈŠÑá†2J$bbbe9e13-f7af-49a1-b9b3-d19eb249d5fc
+}
+java:S2209"5Change this instance-reference to a static reference.(†æ–Üÿÿÿÿÿ8ÈŠÑá†2J$bbe1f9e0-2ec4-4398-8c41-52ac34598027
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÖÕÙôùÿÿÿÿ8µåÓá†2
+r	java:S106"+Replace this use of System.out by a logger.(ÖÕÙôùÿÿÿÿ8ÈŠÑá†2J$0979e06b-3f7c-4ccf-b6e8-982b3dd0bfa6
+}
+java:S2209"5Change this instance-reference to a static reference.(ÖÕÙôùÿÿÿÿ8ÈŠÑá†2J$31178327-d1fb-4c75-8112-d99b6246e11c
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Á¹Ø†úÿÿÿÿ8µåÓá†2
+r	java:S106"+Replace this use of System.out by a logger.(Á¹Ø†úÿÿÿÿ8ÈŠÑá†2J$3238901c-0881-40a1-9d96-559ca75cbd7b
+}
+java:S2209"5Change this instance-reference to a static reference.(Á¹Ø†úÿÿÿÿ8³ÂÑá†2J$b95f7c42-df57-45d4-a6a8-00dca552fd42
+m	java:S106"+Replace this use of System.out by a logger.(šËïù8ÈŠÑá†2J$40e1cd6d-5820-49b3-b66d-9e1e5280ccfc

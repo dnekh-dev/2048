@@ -1,0 +1,14 @@
+
+™
+java:S1104"QMake array a static final constant or non-public and provide accessors if needed.(ÆÄå²ÿÿÿÿÿ8ç€¤Ñ„2J$492ea042-018e-432e-bc9e-0bcf24238fde
+s
+java:S1444"+Make this "public static array" field final(ÆÄå²ÿÿÿÿÿ8ç€¤Ñ„2J$703edaa1-ad1d-443a-bdb4-220cde7e7ec4
+e
+java:S2386"Make this member "protected".(ÆÄå²ÿÿÿÿÿ8é€¤Ñ„2J$b7594d55-c438-4033-a82f-4bc39e6a8d13
+m	java:S106"+Replace this use of System.out by a logger.(‰À…¥8ë€¤Ñ„2J$7c2daeb2-ae76-4c36-8deb-79175bbf5d82
+r	java:S106"+Replace this use of System.out by a logger.(ÑùÊÊþÿÿÿÿ8ë€¤Ñ„2J$920b40b9-7d90-44c6-8c01-48f873d5d076
+m	java:S106"+Replace this use of System.out by a logger.(ñ¼ã–8ë€¤Ñ„2J$85227975-2e97-446b-939e-bee561ce18df
+r	java:S106"+Replace this use of System.out by a logger.(ø—–êýÿÿÿÿ8ë€¤Ñ„2J$fe1babab-9544-4c4d-858f-b6ec7b0618b4
+r	java:S106"+Replace this use of System.out by a logger.(Öâ‡¿úÿÿÿÿ8ì€¤Ñ„2J$925ac451-a348-4ba2-80da-00d3180c761e
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8ì€¤Ñ„2J$d0a4b7d5-fa1d-4648-a361-502d1254f121

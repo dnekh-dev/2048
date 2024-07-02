@@ -1,0 +1,12 @@
+
+™
+java:S1104
+"QMake array a static final constant or non-public and provide accessors if needed.(«Ëöÿÿÿÿÿ8í–Å¢…2J$45985a69-5d48-4f49-9709-4365373d6523
+s
+java:S1444
+"+Make this "public static array" field final(«Ëöÿÿÿÿÿ8î–Å¢…2J$244a20c2-95e2-42c8-a74d-2cf9200383a7
+e
+java:S2386
+"Make this member "protected".(«Ëöÿÿÿÿÿ8î–Å¢…2J$f2dd683c-35c1-4b8e-84cc-1b2a9c613a0d
+r	java:S106'"+Replace this use of System.out by a logger.(¸î“Èÿÿÿÿÿ8ñ–Å¢…2J$6cdef10e-93de-4d53-83f1-4688041b686b
+r	java:S106)"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ñ–Å¢…2J$d7d9cc41-855e-4513-bdb3-860657363091

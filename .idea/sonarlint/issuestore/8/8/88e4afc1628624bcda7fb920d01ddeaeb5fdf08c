@@ -1,0 +1,24 @@
+
+–
+java:S1104"UMake partyFace a static final constant or non-public and provide accessors if needed.(†ı·úÿÿÿÿJ$e9f47eb0-d0ba-46e0-8f2a-40a9924f21a9
+
+java:S1104	"SMake balloon a static final constant or non-public and provide accessors if needed.(¹¾ÈJ$318b1549-bacd-4ff8-bc7c-2ee0f0b471d0
+‹
+java:S1104
+"PMake gift a static final constant or non-public and provide accessors if needed.(ï€â:J$2e0bd000-b179-40e9-8240-e4c5d0b39c90
+“
+java:S1104"WMake partyPopper a static final constant or non-public and provide accessors if needed.(†ì«åJ$6657729f-232b-4ca3-b8de-4f1f3822830f
+‹
+java:S1104"PMake cake a static final constant or non-public and provide accessors if needed.(îèŸwJ$3a70a40c-0585-4aaf-82ac-819190aa35d8
+p
+java:S1444"/Make this "public static partyFace" field final(†ı·úÿÿÿÿJ$9ac455b9-2484-40f1-9365-20c2cd9ae293
+h
+java:S1444	"-Make this "public static balloon" field final(¹¾ÈJ$6fc179a5-c599-49ed-a641-b808f6ff4713
+e
+java:S1444
+"*Make this "public static gift" field final(ï€â:J$2f71071e-fcd9-449d-b544-3c6e497f9017
+m
+java:S1444"1Make this "public static partyPopper" field final(†ì«åJ$b680c01a-e9c5-4718-accf-5086b23b5b9e
+e
+java:S1444"*Make this "public static cake" field final(îèŸwJ$2433fe00-51a8-4f99-bf91-cd255f7b1a5e
+f	java:S106"+Replace this use of System.out by a logger.(óØÕªJ$b19e3bc9-2645-475a-af13-c7f7cf88f26d

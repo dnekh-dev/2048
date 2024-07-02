@@ -1,0 +1,14 @@
+
+~
+java:S4973"<Strings and Boxed types should be compared using "equals()".(”‚²l8½²‡Í…2J$61887192-0187-4865-9e56-397a4536e177
+c
+java:S2129	" Remove this "String" constructor(òÿî¬8À²‡Í…2J$16f3aa2c-ebe7-41b1-a039-b9c8e39d9a0e
+h
+java:S2129
+" Remove this "String" constructor(¶²îøÿÿÿÿ8À²‡Í…2J$3047aa30-31aa-477c-b8e3-354b0147aee2
+h
+java:S2129" Remove this "String" constructor(—Ì¼üÿÿÿÿ8À²‡Í…2J$15e0d0f2-2a72-431c-9451-3df077fa89d5
+m	java:S106"+Replace this use of System.out by a logger.(¼˜¿ö8À²‡Í…2J$31e8d5a7-8f58-4636-bd0d-762da3f2cfd1
+m	java:S106"+Replace this use of System.out by a logger.(ÊË«¤8Á²‡Í…2J$efc40bcc-485e-4da1-8440-dba0f7a6839d
+©
+java:S1221"aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.(åš¸½ÿÿÿÿÿ8Á²‡Í…2J$52e8b2c1-8b12-41d1-a733-c9d531bca3da

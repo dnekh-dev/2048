@@ -1,0 +1,7 @@
+
+t
+java:S1172	",Remove this unused method parameter "apple".(ä´Í®þÿÿÿÿ8‘ßÊà†2J$56e7cf6e-c49f-409d-8bb4-b14189d97043
+r	java:S106
+"+Replace this use of System.out by a logger.(Éª»ªûÿÿÿÿ8‘ßÊà†2J$c686e5d9-a882-4248-b86a-67d920947f21
+Š
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Œž§¢úÿÿÿÿ8’ßÊà†2J$714c92a7-7abf-45cf-a23b-5b37570dd8bd

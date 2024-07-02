@@ -1,0 +1,7 @@
+
+_
+java:S1643"Use a StringBuilder instead.(·ÇÑ¶8 ›ÒÆ…2J$5d145ee0-7f14-4f87-b268-e3996a2fb269
+r	java:S106"+Replace this use of System.out by a logger.(ş‚©ûÿÿÿÿ8¢›ÒÆ…2J$cc2ef90a-dcc5-47b0-a3b3-81fb27e631c4
+l	java:S106"+Replace this use of System.out by a logger.(Äø,8¢›ÒÆ…2J$8d49e980-4308-460e-861f-3b810c811490
+|
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8¡´ßÆ…2J$3e56d777-bf07-4b7f-9ec3-b11607d8f298

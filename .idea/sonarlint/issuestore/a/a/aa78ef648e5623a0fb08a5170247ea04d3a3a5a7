@@ -1,0 +1,17 @@
+
+
+java:S1104"SMake strings a static final constant or non-public and provide accessors if needed.(®Ü¦$J$aa5f4049-5672-4544-ad35-b38f38821304
+‘
+java:S1104"PMake ints a static final constant or non-public and provide accessors if needed.(µºùÿÿÿÿJ$7fb1822a-05c0-40f9-8b53-f2f671c1c91b
+h
+java:S1444"-Make this "public static strings" field final(®Ü¦$J$b9e86f20-a502-4295-ab50-88af7334c3d0
+k
+java:S1444"*Make this "public static ints" field final(µºùÿÿÿÿJ$30673ee8-a62e-4b11-952c-bc8ea9c0dc30
+X
+java:S2386"Make this member "protected".(®Ü¦$J$cf49852b-4969-463d-937a-fb2cdcb45175
+^
+java:S2386"Make this member "protected".(µºùÿÿÿÿJ$6f194eaa-90ae-434c-a43f-ec62b267c3ca
+m	java:S106"+Replace this use of System.out by a logger.(ÑÅÃ8Î½ºÍ…2J$4705af56-7870-4314-9073-e42928beb378
+m	java:S106"+Replace this use of System.out by a logger.(ÃÙîµ8´ıºÍ…2J$82dd81e8-1983-4bb5-9a67-a3104da8e8c6
+h
+java:S1128"FRemove this unused import 'javax.print.attribute.standard.Finishings'.(„“Ñ˜ûÿÿÿÿ8ÏÁ»Í…2

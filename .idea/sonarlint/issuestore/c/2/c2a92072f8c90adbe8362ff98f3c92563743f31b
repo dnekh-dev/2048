@@ -1,0 +1,26 @@
+
+›
+java:S1104
+"SMake strings a static final constant or non-public and provide accessors if needed.(ÙÄÍÿÿÿÿÿ8…Ó•Ñ„2J$a90e090d-953a-4a14-aabd-024323d16cd9
+u
+java:S1444
+"-Make this "public static strings" field final(ÙÄÍÿÿÿÿÿ8†Ó•Ñ„2J$7d111f58-31f8-4e8b-b7cf-cb9eef3b2e01
+Œ
+java:S1192"IUse already-defined constant 'ODD' instead of duplicating its value here.(–Ê…ÿ8íÕ–Ñ„2J$07ea7c29-3173-4177-90c2-8e077754595f
+’
+java:S1192"JUse already-defined constant 'EVEN' instead of duplicating its value here.(‘ã«©úÿÿÿÿ8‡Ó•Ñ„2J$78870741-195b-489f-8e3f-6c578cd40a84
+
+java:S1192"JDefine a constant instead of duplicating this literal " value = " 5 times.(Ï¨˜8‡Ó•Ñ„2J$87c4cfd5-ce07-4263-bec4-fac000a1e279
+e
+java:S2386
+"Make this member "protected".(ÙÄÍÿÿÿÿÿ8‰Ó•Ñ„2J$0cbbd332-613e-4fdd-9491-b8a52d79d740
+r	java:S106"+Replace this use of System.out by a logger.(€æµ«úÿÿÿÿ8Ó•Ñ„2J$d35b741c-3a25-4dae-a7c8-c1c80bf52353
+m	java:S106"+Replace this use of System.out by a logger.(Ï¨˜8Ó•Ñ„2J$319e9427-8181-4fc4-84cf-c4bdc53c0e3e
+r	java:S106"+Replace this use of System.out by a logger.(ßßŸùÿÿÿÿ8Ó•Ñ„2J$afb52f64-0c89-4043-aa53-cca37085caac
+m	java:S106"+Replace this use of System.out by a logger.(”Ä¾¶8Ó•Ñ„2J$5a8cd889-084c-4ae9-9142-5708fa289b2b
+r	java:S106"+Replace this use of System.out by a logger.(›ÿ±İÿÿÿÿÿ8Ó•Ñ„2J$d3dc97dd-d01f-4f25-bf1a-5d59c407b658
+m	java:S106"+Replace this use of System.out by a logger.(àŒ†ş8Ó•Ñ„2J$f32f27f6-2ba7-450f-b577-5ff0d31c92c0
+r	java:S106"+Replace this use of System.out by a logger.(ò¼Öøÿÿÿÿ8Ó•Ñ„2J$50d4e2b0-c115-4eb4-a500-fabcb671c275
+m	java:S106"+Replace this use of System.out by a logger.(—Ğ‰î8Ó•Ñ„2J$c0158c7d-da9e-4c08-a720-55b314e1a3c0
+r	java:S106"+Replace this use of System.out by a logger.(Í¢¦Áÿÿÿÿÿ8Ó•Ñ„2J$4088e46a-cd5d-46ff-a886-d6ddf1259715
+r	java:S106"+Replace this use of System.out by a logger.(¥Ä—•ÿÿÿÿÿ8Ó•Ñ„2J$10b0529f-b1ac-4509-8e69-5026894fd2a0

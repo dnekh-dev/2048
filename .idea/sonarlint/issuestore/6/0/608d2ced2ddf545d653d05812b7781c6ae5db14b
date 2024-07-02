@@ -1,0 +1,6 @@
+
+ 	java:S127˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â†°àúÿÿÿÿ8ãÉù•‡2J$c3f2ac21-44f7-4b25-a523-7a3b07b2155f
+‚
+java:S1161":Add the "@Override" annotation above this method signature(·òşÿÿÿÿ8çÉù•‡2J$17c16804-76e2-4424-b249-1a5444ab2506
+–
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‹‹òı8ìÉù•‡2J$5a3db87a-72be-40d2-b1dd-2c8dee695d2f

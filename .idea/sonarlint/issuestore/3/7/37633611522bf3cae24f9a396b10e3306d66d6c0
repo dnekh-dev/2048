@@ -1,0 +1,9 @@
+
+š
+java:S1104
+"RMake secret a static final constant or non-public and provide accessors if needed.( Ë“Óúÿÿÿÿ8Ö¸‡§„2J$261e4a9c-8d4f-47d5-8560-567a6916ab83
+t
+java:S1444
+",Make this "public static secret" field final( Ë“Óúÿÿÿÿ8×¸‡§„2J$b5c20373-fead-44c7-9436-25cdd6976e7b
+m	java:S106"+Replace this use of System.out by a logger.(ØÝÿŽ8Ý¸‡§„2J$6b60cd69-400f-4a75-bf56-faba5a220a7b
+r	java:S106"+Replace this use of System.out by a logger.(É•­Úþÿÿÿÿ8Ý¸‡§„2J$9d4a62cb-6608-4777-9962-e6ee8ded380b

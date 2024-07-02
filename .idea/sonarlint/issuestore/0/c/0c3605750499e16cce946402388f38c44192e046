@@ -1,0 +1,18 @@
+
+ 
+java:S1104	"XMake robotCounter a static final constant or non-public and provide accessors if needed.(åİ²úùÿÿÿÿ8»åá†2J$8ce2ed6e-5285-4a17-b026-9957bc0d1c4c
+–
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8»åá†2J$5fbe1d8f-ed01-4182-a422-15c9c2f991f3
+™
+java:S1104"QMake model a static final constant or non-public and provide accessors if needed.(¢úõşÿÿÿÿ8»åá†2J$b057102b-1f72-455c-8e10-45e82234f56a
+
+java:S1104"ZMake productionYear a static final constant or non-public and provide accessors if needed.(±ÌùÏ8»åá†2J$58138e21-fdba-4d17-a86e-d0ceaaa1cbf1
+š
+java:S1104"RMake vendor a static final constant or non-public and provide accessors if needed.(ïÉ¢ÿÿÿÿÿ8¼åá†2J$5feb7400-a4f6-4eb2-8ec1-8e7b8207a4e4
+T
+java:S1444	"2Make this "public static robotCounter" field final(åİ²úùÿÿÿÿ8ÚÁéá†2
+t
+java:S1444",Make this "public static vendor" field final(ïÉ¢ÿÿÿÿÿ8éüæá†2J$e00ad703-87b8-4bed-b9f7-f41b58edd194
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(´ŠÄ8¾åá†2J$e5d0fb3f-b5e9-486f-a607-809190a6bf12
+m	java:S106"+Replace this use of System.out by a logger.(´ŠÄ8¾åá†2J$8d650954-5451-4623-89d4-1b4254f795dd

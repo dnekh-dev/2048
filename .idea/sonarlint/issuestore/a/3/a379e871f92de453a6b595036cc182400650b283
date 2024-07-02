@@ -1,0 +1,11 @@
+
+¢
+java:S1104	"`Make MULTIPLICATION_TABLE a static final constant or non-public and provide accessors if needed.(˜‹¤'8ÝçÚù„2J$680b0583-a345-48a9-84e2-8ca4a0e3f12c
+|
+java:S1444	":Make this "public static MULTIPLICATION_TABLE" field final(˜‹¤'8ÝçÚù„2J$777bb7a0-8ca6-42e7-94b0-a9be626c204d
+¡
+java:S3008	"_Rename this field "MULTIPLICATION_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜‹¤'8ÞçÚù„2J$1c15cffe-ad44-408a-88c3-faf5834da882
+r
+java:S2386"/Make member "MULTIPLICATION_TABLE" "protected".(“ãÄÍ8ßçÚù„2J$168a1904-f5d5-4890-be90-abc95c1c872a
+m	java:S106"+Replace this use of System.out by a logger.(£µÞ¶8àçÚù„2J$0c1408d4-022f-474d-a193-2656ae745dd5
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8àçÚù„2J$e283eaa4-035b-4d00-9af3-c69c90b0de64

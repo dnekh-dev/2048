@@ -1,0 +1,10 @@
+
+n
+java:S1104"QMake chars a static final constant or non-public and provide accessors if needed.(ÿÄ‰8‰ªı¼…2
+H
+java:S1444"+Make this "public static chars" field final(ÿÄ‰8‰ªı¼…2
+:
+java:S2386"Make this member "protected".(ÿÄ‰8Šªı¼…2
+L	java:S106"+Replace this use of System.out by a logger.(œ²¹ıÿÿÿÿ8Œªı¼…2
+L	java:S106 "+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Œªı¼…2
+L	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Œªı¼…2

@@ -1,0 +1,16 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ÉÉ“ùûÿÿÿÿ8Ô¶ƒ½†2J$8aa5e604-9c27-458f-9a2d-5254e89b6f34
+r	java:S106"+Replace this use of System.out by a logger.(ÑôÓÔùÿÿÿÿ8Ô¶ƒ½†2J$ed50ab15-efab-4444-9923-23fc559e0339
+r	java:S106"+Replace this use of System.out by a logger.(ÐÓµÐÿÿÿÿÿ8Ô¶ƒ½†2J$92809de6-26bd-4b2a-9b35-e1f6ea6bb128
+
+java:S1854"ERemove this useless assignment to local variable "skyscraperSkyline".(â‰¡Òýÿÿÿÿ8Õ¶ƒ½†2J$c6c4de57-5d77-4f40-96bc-4e4c0b59de4b
+‹
+java:S1854"CRemove this useless assignment to local variable "skyscraperTower".(ŠÖ—Íýÿÿÿÿ8Õ¶ƒ½†2J$0d38dfdd-de65-4bc5-99db-f9dbcc111897
+†
+java:S1854">Remove this useless assignment to local variable "skyscraper".(ÞÚ³Çýÿÿÿÿ8Õ¶ƒ½†2J$4879dc3c-710d-4c55-8f43-47ad43863cd3
+w
+java:S1481"/Remove this unused "skyscraper" local variable.(ÞÚ³Çýÿÿÿÿ8Õ¶ƒ½†2J$133f54b1-9aab-46ad-b7f2-51520e625dfc
+|
+java:S1481"4Remove this unused "skyscraperTower" local variable.(ŠÖ—Íýÿÿÿÿ8Õ¶ƒ½†2J$e6047529-9771-4527-8312-447ec7e5ce46
+~
+java:S1481"6Remove this unused "skyscraperSkyline" local variable.(â‰¡Òýÿÿÿÿ8Õ¶ƒ½†2J$15858f3a-48a7-4862-8533-85deb3d29f4c
